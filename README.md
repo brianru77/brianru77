@@ -33,7 +33,6 @@
 
 <h2 align="center">🪐 Preferred Languages 🪐</h2>
 <div align="center">
-<im g src="https://github-readme-stats.vercel.app/api?username=RuDaz7&show_icons=true">
 </div>
 
 <div align="center">
@@ -46,7 +45,17 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=033963&height=100&section=header&text=Thank%20you%20for%20Visiting%20everytime.&fontSize=50&fontColor=ECD53F"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=033963&height=100&section=header&text=Thank%20you%20for%20Visiting%20every%20time.&fontSize=50&fontColor=ECD53F"/>
 </div>
+
+<h2 align="center"> 🌐 Connect with Me </h2>
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---  

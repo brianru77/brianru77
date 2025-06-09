@@ -1,4 +1,3 @@
-<!-- 상단 헤더 -->
 <div align="center">  
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00599C&height=130&section=header&text=Thank%20you%20for%20Visiting&fontSize=80&fontColor=03C75A&animation=fadeIn" />
 </div>
@@ -9,12 +8,11 @@
 > Minor: Immersive Software Engineering  
 + Keimyung University
 
-<!-- 블로그/노션 뱃지 -->
 <p align="center">
   <a href="https://blog.naver.com/rdz77">
     <img src="https://img.shields.io/badge/🖐 My Blog Click!-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A" />
   </a>
-  <br /><br />
+  
   <a href="https://sn7794.notion.site/i-m-KyeongMin-Kim-d28f01712757415899d15daead0199fe">
     <img src="https://img.shields.io/badge/🖐 My Notion Click!-white?style=for-the-badge&logo=Notion&logoColor=000000" />
   </a>
@@ -44,7 +42,6 @@
 
 ---
 
-<!-- 하단 메시지 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=033963&height=100&section=header&text=Thank%20you%20for%20Visiting%20every%20time.&fontSize=50&fontColor=ECD53F" />
 </div>

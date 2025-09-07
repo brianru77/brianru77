@@ -24,6 +24,12 @@
 
 ---
 
+<h3>나만의 개발 수칙</h3>
+
++ 작은 경고나 에러를 남기지 않기 = 모든 값을 디버그로 확인하는 습관지키기
++ 예상치 못한 입력/상태 예외처리 하기 = 혹시 모를 큰 충동을 사전에 차단하기
+---
+
 <h2 align="center">🎮 Favorite Tools 🎮</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black" />

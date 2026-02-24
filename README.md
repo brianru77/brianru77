@@ -8,20 +8,6 @@
 > Minor: Immersive Software Engineering  
 + Keimyung University
 
-<p>
-  My Naver Blog 👉
-  <a href="https://blog.naver.com/rdz77">
-    <img src="https://img.shields.io/badge/Naver_Blog-2DB400?style=for-the-badge&logo=Naver&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  My Notion 👉
-  <a href="https://sn7794.notion.site/i-m-KyeongMin-Kim-d28f01712757415899d15daead0199fe">
-    <img src="https://img.shields.io/badge/Notion_Workspace-fdf6e3?style=for-the-badge&logo=Notion&logoColor=000000" />
-  </a>
-</p>
-
 ---
 
 <h3>나만의 개발 수칙</h3>
